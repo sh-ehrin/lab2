@@ -101,6 +101,4 @@ public class Card{
             return false;
         }
     }
-    
-    
 }
